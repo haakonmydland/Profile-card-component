@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io](https://www.frontendmentor.io/solutions/profile-card-component-react-typescript-dl5kP5J8Es)
+- Live Site URL: [https://profile-card-component-9zx.pages.dev/](https://profile-card-component-9zx.pages.dev/)
 
 ## My process
 
